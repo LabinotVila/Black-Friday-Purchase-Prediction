@@ -1,6 +1,6 @@
 # Black Friday: Data Mining
 
-This project uses two algorithms specified below to predict how much a new user will spend, and whether he is going to spend below or above average.
+This project uses two algorithms specified below to predict how much a new user will spend, and whether he is going to spend below or above average, the dataset can be found here: https://www.kaggle.com/mehdidag/black-friday
 
 ##### Random Forest Regression
 To predict the value of the attribute 'Purchase', we have used Random Forest Regression, whose RMSE *[Root Mean Squared Error]* is around 3100, which is considered decent. 
